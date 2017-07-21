@@ -1,5 +1,5 @@
 # hello-world
-First repository made
+Hello,
 
 
 I am 22 years old and I want to master the piano.
